@@ -8,19 +8,23 @@ A demonstration of what this script can do can be found here
 
 https://youtu.be/wJrrZiaFas0
 
+A video tutorial implementing this script can be found here
+
+https://youtu.be/1hbQeUDBeIw
+
 ## Installation
 
 To run this code, you will need to have Python 3.8+ installed on your printer(which comes standard on all POSTEK Printers that support OX Script after May 2023). You will not be able to execute this code directly on your computer as it is intended to be executed on the printer
 
 ## Usage
 
-To execute this demo, simply load the .py file into your printer through the POSTEK App. Then to run the program you can initate it from the printer touch screen or the POSTEK App. 
+To execute this demo, simply load the .py file into your printer through the POSTEK App. Then to run the program you can initiate it from the printer touch screen or the POSTEK App. 
 
-- Initiating the program from printer touch screen
-    - On your printer's touch screen, go to settings>Ox Script>[your file name].py. Press it and select run from the bottom right of the pop-up window
+- Initiating the program from the printer touchscreen
+    - On your printer's touch screen, go to settings>Ox Script>[your file name].py. Press it and select Run from the bottom right of the pop-up window
  
 - Initiating the program from the POSTEK App
-    - Inside the App, select Ox Script from the left hand side. Connect to the printer that you just moved the files to and select the file from the left hand side drop down, click run on the top right hand corner
+    - Inside the App, select Ox Script from the left-hand side. Connect to the printer that you just moved the files to and select the file from the left-hand side drop-down, click run on the top right-hand corner
 
 ## License
 
